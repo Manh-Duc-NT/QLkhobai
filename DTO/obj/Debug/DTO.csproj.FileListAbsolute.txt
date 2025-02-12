@@ -1,0 +1,16 @@
+D:\Study\Bài tập linh tinh\DoAnQuanLyThietBi-Winform\QuanLyThietBi\DTO\bin\Debug\DTO.dll
+D:\Study\Bài tập linh tinh\DoAnQuanLyThietBi-Winform\QuanLyThietBi\DTO\bin\Debug\DTO.pdb
+D:\Study\Bài tập linh tinh\DoAnQuanLyThietBi-Winform\QuanLyThietBi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\Bài tập linh tinh\DoAnQuanLyThietBi-Winform\QuanLyThietBi\DTO\obj\Debug\DTO.dll
+D:\Study\Bài tập linh tinh\DoAnQuanLyThietBi-Winform\QuanLyThietBi\DTO\obj\Debug\DTO.pdb
+D:\Study\DoAn-2023\QuanLyKhoBai-Winform\DTO\bin\Debug\DTO.dll
+D:\Study\DoAn-2023\QuanLyKhoBai-Winform\DTO\bin\Debug\DTO.pdb
+D:\Study\DoAn-2023\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\DoAn-2023\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.dll
+D:\Study\DoAn-2023\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.pdb
+E:\.Môn học\.Net\QuanLyKhoBai-Winform\DTO\bin\Debug\DTO.dll
+E:\.Môn học\.Net\QuanLyKhoBai-Winform\DTO\bin\Debug\DTO.pdb
+E:\.Môn học\.Net\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\.Môn học\.Net\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\.Môn học\.Net\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.dll
+E:\.Môn học\.Net\QuanLyKhoBai-Winform\DTO\obj\Debug\DTO.pdb
